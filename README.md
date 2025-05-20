@@ -59,6 +59,8 @@
 앱을 체험해보고 싶다면 아래 링크를 클릭해주세요:
 👉 [Trade_AR.apk 다운로드](https://drive.google.com/file/d/1tpDhnZOSkk0MG2KcHQxZJPJUH6iS4myC/view?usp=sharing)
 
+-----
+
 ## 💡 기대 효과
 
 - **학습 효과 향상**: 실시간 AR 시뮬레이션을 통해 추상 개념을 시각적으로 이해
