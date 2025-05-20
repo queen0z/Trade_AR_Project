@@ -55,6 +55,9 @@
 | 부가 요소 | 미니 퀴즈, 이론 설명창 등 학습 기능 내장 |
 
 -----
+## APK 다운로드
+앱을 체험해보고 싶다면 아래 링크를 클릭해주세요:
+👉 [Trade_AR.apk 다운로드](https://drive.google.com/file/d/1tpDhnZOSkk0MG2KcHQxZJPJUH6iS4myC/view?usp=sharing)
 
 ## 💡 기대 효과
 
