@@ -1,0 +1,18 @@
+# Unity 자동 생성 파일 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+*.csproj
+*.unitypackage
+*.apk
+*.aab
+*.tgz
+*.dylib
+.vscode/
+.vs/
+.DS_Store
